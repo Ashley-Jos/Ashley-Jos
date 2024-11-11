@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashley-Jos
-- 👀 I’m interested in education/learning, SQL and database development, and languages.
+- 👀 I’m interested in instructional design, e-Learning development, education/learning.
 - 🌱 I’m currently learning SQL.
-- 💞️ I’m looking to collaborate on anything regarding databases.
+- 💞️ I’m looking to collaborate on anything regarding developing e-Learning.
 
 
 <! --- - 📫 How to reach me ... --->
